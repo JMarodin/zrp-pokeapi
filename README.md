@@ -10,6 +10,8 @@ Rode o Flask com `flask run`.
 
 Por último acesse `http://127.0.0.1:5000/`.
 
+Rode o teste com `python3 -m pytest`.
+
 ## Rodando o projeto com Docker:
 
 Na raiz do projeto rode: `docker build --force-rm  -t  PokeAPI/latest . --no-cache`.
