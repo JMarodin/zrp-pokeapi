@@ -28,4 +28,4 @@ def buscar():
     return render_template("index.html", foto=pokemon.foto, nome=pokemon.nome.upper(), tipos=pokemon.tipos, habilidades=pokemon.habilidades)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5010)
