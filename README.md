@@ -20,7 +20,7 @@ Por último acesse `http://localhost:5010/`.
 
 ## Exemplos
 
-![pokeApiBase](PokeAPI.png)
-![pokeApiBusca](PokeAPI-Busca.png)
+<img src="PokeAPI.png" width="200" height="300" />
+<img src="PokeAPI-Busca.png" width="200" height="300" />
 
 ##
