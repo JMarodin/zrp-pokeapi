@@ -18,15 +18,6 @@ Depois rode: `docker run -p 5010:5000 -d --name PokeAPI PokeAPI/latest:latest`.
 
 Por último acesse `http://localhost:5010/`.
 
-
-## Rodando o projeto sem o Docker:
-
-Na raiz do projeto rode: `docker build --force-rm  -t  PokeAPI/latest . --no-cache`.
-
-Depois rode: `docker run -p 5010:5000 -d --name PokeAPI PokeAPI/latest:latest`.
-
-Por último acesse `http://localhost:5010/`.
-
 ## Exemplos
 
 ![pokeApiBase](PokeAPI.png)
